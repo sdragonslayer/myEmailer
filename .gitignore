@@ -1,0 +1,13 @@
+# Secrets and personal data never leave this machine
+app/data/
+captures/*
+!captures/.gitkeep
+voice_samples/*
+!voice_samples/.gitkeep
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
