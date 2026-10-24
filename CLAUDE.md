@@ -1,3 +1,6 @@
+> **Next up:** implement `docs/DAILY_OUTREACH_PLAN.md` (personalization + the daily `/daily` run
+> via MCP). Read it before starting work, and follow its Build order.
+
 # Personal outreach system
 
 Local storage and tools for my outreach. The app makes no LLM calls; you (Claude) are the agent.
